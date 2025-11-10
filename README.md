@@ -1,0 +1,2 @@
+# Diabetes-prediction
+DIABETES PREDICTION USING ML
